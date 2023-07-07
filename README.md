@@ -1,1 +1,1 @@
-# Cypress---Treino-1-
+# Exercitando-Cypress
